@@ -1,0 +1,685 @@
+body{
+	background-image: url(https://my4kwallpapers.com/wp-content/uploads/2021/06/Wallpaper-Anime.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 350px;
+    background-color: rgba(0, 60, 96, 0.75);
+}
+
+header{
+    background-color: #183153;
+    margin: 0px;
+    padding: 0px;
+    top: 0;
+    overflow: hidden;
+}
+
+header ul li{
+	display: inline;
+	font-size: 28px;
+	font-family: Garamond;
+	color: white;
+    font-weight: bold;
+	margin: 14px 14px;
+	padding: 30px 30px;
+}
+
+.navigation{
+	height: 50px;
+	display: block;
+    margin: 0px;
+	padding: 8px 0px 8px 8px;
+	border width: 30px;
+}
+
+#headline{
+	font-family: Papyrus;
+	font-size: 40px;
+	font-weight: bolder;
+	text-align: center;
+	margin-top: 60px;
+    text-shadow: 2px 2px 5px white;
+}
+
+#paragraph{
+	font-family: Papyrus;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: -25px;
+}
+
+fieldset{
+	max-width: 600px;
+	width: 400px;
+	background: whitesmoke;
+	opacity: 0.7;
+	padding: 40px 50px 0px 50px;
+    margin-top: 0px;
+	margin-left: 420px;
+	border-radius: 10px;
+	font-weight: bolder;
+}
+
+form .favourite{
+	height: 45px;
+	width: 100%;
+}
+
+form .gender{
+	height: 45px;
+	width: 100%;
+	margin-top: 20px;
+}
+
+form .age{
+	height: 45px;
+	width: 100%;
+	margin-top: 10px;
+}
+
+form .button{
+	height: 45px;
+	width: 100%;
+	margin-top: 10px;
+	text-align: center;
+
+}
+
+.figure1 h1{
+	font-weight: bolder;
+	font-family: Papyrus;
+	font-size: 30px;
+    color: white;
+    text-shadow: 0px 0px 8px black;
+	background-color: #183153;
+	text-align: center;
+	margin-top: 300px;
+	margin-bottom: 50px;
+}
+
+.figure1 #image1{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 300px;
+         margin: 25px 30px 25px 80px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure1 #image2{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 300px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ;
+         cursor: pointer;
+}
+
+.figure1 #image3{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 300px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ;
+         cursor: pointer;
+}
+
+.figure1 #image4{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 300px;
+         margin: 25px 30px 25px 50px;   
+         text-align: center;    
+         background:  ;
+         cursor: pointer;
+}
+
+.figure1 #image5{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 300px;
+         margin: 25px 30px 25px 80px;  
+         text-align: center;    
+         background:  ;
+         cursor: pointer;
+}
+
+.figure1 #image6{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 300px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ;
+         cursor: pointer;
+}
+
+.figure1 #image7{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 300px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ;
+         cursor: pointer;
+}
+
+.figure1 #image8{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 300px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ;
+         cursor: pointer;
+}
+
+.figure1 figcaption{
+	font-family: monospace;
+	font-size: 20px;
+	font-weight: bold;
+    color: white;
+    text-shadow: 0px 0px 4px black;
+    padding-top: 20px;
+}
+
+.figure2 h1{
+	font-weight: bolder;
+	font-family: Papyrus;
+	font-size: 30px;
+	color: white;
+    text-shadow: 0px 0px 8px black;
+    background-color: #183153;
+	text-align: center;
+	margin-top: 120px;
+	margin-bottom: 50px;
+}
+
+.figure2 #image1{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 30px 80px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure2 #image2{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure2 #image3{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure2 #image4{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure2 #image5{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 80px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure2 #image6{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure2 #image7{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure2 #image8{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure2 figcaption{
+	font-family: monospace;
+	font-size: 20px;
+	font-weight: bold;
+    color: white;
+    text-shadow: 0px 0px 4px black;
+    padding-top: 20px;
+}
+
+.figure3 h1{
+    font-weight: bolder;
+    font-family: Papyrus;
+    font-size: 30px;
+    color: white;
+    text-shadow: 0px 0px 8px black;
+    background-color: #183153;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+
+.figure3 #image1{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 80px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure3 #image2{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure3 #image3{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure3 #image4{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure3 #image5{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 80px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure3 #image6{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure3 #image7{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure3 #image8{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure3 figcaption{
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0px 0px 4px black;
+    padding-top: 20px;
+}
+
+.figure4 h1{
+    font-weight: bolder;
+    font-family: Papyrus;
+    font-size: 30px;
+    color: white;
+    text-shadow: 0px 0px 8px black;
+    background-color: #183153;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+
+.figure4 #image1{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 80px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure4 #image2{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure4 #image3{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure4 #image4{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure4 #image5{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 80px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure4 #image6{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure4 #image7{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure4 #image8{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure4 figcaption{
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0px 0px 4px black;
+    padding-top: 20px;
+}
+
+.figure5 h1{
+    font-weight: bolder;
+    font-family: Papyrus;
+    font-size: 30px;
+    color: white;
+    text-shadow: 0px 0px 8px black;
+    background-color: #183153;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+
+.figure5 #image1{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 80px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure5 #image2{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure5 #image3{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure5 #image4{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure5 #image5{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 80px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure5 #image6{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure5 #image7{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure5 #image8{
+         border: 0px solid black;
+         display: inline-block;
+         width: 230px;
+         height: 280px;
+         margin: 25px 30px 25px 50px;  
+         text-align: center;    
+         background:  ; 
+         cursor: pointer;
+}
+
+.figure5 figcaption{
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0px 0px 4px black;
+    padding-top: 20px;
+}
+
+.footer{
+    background-color: #183153;
+    margin-top: 120px;
+}
+
+.container1{
+    display: inline-block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 90px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+  
+.container2{
+    display: inline-block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 120px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.container3{
+    display: inline-block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 160px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+   
+h2{
+    color: lightgray;
+    text-shadow: 2px 2px 2px black;
+}
+
+.footer ul li{
+    color: lightgray;
+    text-shadow: 2px 2px 2px black;
+}
+
+.container2 ul li{
+    cursor: pointer;
+}
+
+.container3 ul li{
+    cursor: pointer;
+}
+
+
+
